@@ -1,0 +1,5 @@
+com\example\productapp\ProductappApplication.class
+com\example\productapp\service\ProductService.class
+com\example\productapp\repository\ProductRepository.class
+com\example\productapp\controller\ProductController.class
+com\example\productapp\model\Product.class
